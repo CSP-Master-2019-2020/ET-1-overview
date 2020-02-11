@@ -4,10 +4,8 @@ layout: tabbed-assignment
 
 # Submission Instructions
 
-1. Start by making an editable copy of the [submission template][template] for this assignment. 
-If you need tips on how to do this, expand the instructions below. Then…
-1. Make sure that you have completed the [template][] completely.
-1. Submit as usual.
+1. Make sure that your name is on your scoring sheet and turn it in.
+1. Get checked off for access to your digital portfolio.
 
 {% include submission-boilerplate.html %}
 
