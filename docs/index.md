@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <!-- img class="overview-image" src="" -->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+This lesson contains a series of activities you can use to help familiarize yourself with the **Explore Performance Task,** and how it is scored. We'll use some example tasks provided by the College Board to review the scoring guidelines and solidify our understanding of the task.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
